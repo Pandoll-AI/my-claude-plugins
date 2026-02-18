@@ -1,4 +1,4 @@
-# SJ Database Tools — Claude Code Plugin Marketplace
+# My Claude Plugin Marketplace
 
 Database portability and migration tools for Claude Code.
 
@@ -6,10 +6,10 @@ Database portability and migration tools for Claude Code.
 
 ```bash
 # Add marketplace
-/plugin marketplace add YOUR_GITHUB_USERNAME/sj-db-tools
+/plugin marketplace add YOUR_GITHUB_USERNAME/my-claude-plugins
 
 # Install plugin
-/plugin install supabase-to-aws@sj-db-tools
+/plugin install supabase-to-aws@my-claude-plugins
 ```
 
 ## Plugins
