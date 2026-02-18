@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "sj-db-tools",
+    "description": "Database portability and migration tools. Supabase ↔ AWS RDS with zero lock-in.",
+    "author": "SJ",
+    "license": "MIT"
+  },
+  "plugins": [
+    {
+      "name": "supabase-to-aws",
+      "version": "1.0.0",
+      "description": "Full-lifecycle Supabase ↔ AWS portability plugin. Audit codebase coupling, enforce portability rules during dev, and automate migration (Auth → Storage → Database).",
+      "source": {
+        "type": "relative",
+        "path": "supabase-to-aws"
+      },
+      "category": "database",
+      "tags": ["supabase", "aws", "rds", "migration", "database", "portability"]
+    }
+  ]
+}

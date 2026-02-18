@@ -1,0 +1,9 @@
+{
+  "name": "supabase-to-aws",
+  "version": "1.0.0",
+  "description": "Full-lifecycle Supabase ↔ AWS portability plugin. Audit → Guard → Migrate.",
+  "author": "SJ",
+  "skills": ["skills/"],
+  "commands": ["commands/"],
+  "agents": ["agents/"]
+}
